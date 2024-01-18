@@ -17,9 +17,13 @@ Top Songs Identification: The most listened songs are identified for each time p
 Genre Analysis: Utilizing the Spotify API, the project fetches genre information for each song. This enriches the analysis by providing a detailed breakdown of the genres listened to during specific periods.
 
 Dependencies
+
 pandas: For data manipulation and analysis.
+
 matplotlib and seaborn: For data visualization.
+
 spotipy: A Python library for interacting with the Spotify API in this project to extract genre of the songs.
 
 Results
+
 The project generates visualizations, including bar charts and line plots, illustrating listening habits during various life events. These visualizations provide a comprehensive overview of music preferences over time.
